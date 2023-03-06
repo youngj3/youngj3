@@ -3,6 +3,7 @@ Hi 👋 My name is James Young
 
 ## Full-Stack Web Developer
 
+* 🌍  I'm based in Boston, MA
 * 🖥️  See my portfolio at [Launcher Profile](http://launchpass.launchacademy.com/users/JamesYoung3097/launcher_profile)
 * ✉️  You can contact me at [jimmyjohnyoung@gmail.com](mailto:jimmyjohnyoung@gmail.com)
 * 🚀  I'm currently working on [GigGuide](http://breakable-toy-venues-events.herokuapp.com/)
